@@ -1,0 +1,11 @@
+commit 8be52f9e91bb4b202eeec0bdf5deefed56972960
+Author: Jose Pedraza <josepe.pedraza@gmail.com>
+Date:   Tue Aug 16 15:56:42 2016 -0400
+
+    Agregamos un encabezado
+
+commit 9b0034e68ce7ec10c548aa01a49b4266bb500bc5
+Author: Jose Pedraza <josepe.pedraza@gmail.com>
+Date:   Tue Aug 16 15:53:18 2016 -0400
+
+    Iniciamos
